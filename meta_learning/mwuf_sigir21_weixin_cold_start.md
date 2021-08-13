@@ -49,4 +49,5 @@ $v_i^{warm} = v_i \odot \tau_{v_i}^{scale} + \tau_{v_i}^{shift}$
 （3）要收集与item有交互的User的embedding，这一点对样本处理的要求很高，有没有更高效的或者近似的方法？
 
 # 4. Preferences
+
 [1] Zhu, Yongchun, et al. "Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks." arXiv preprint arXiv:2105.04790 (2021).
